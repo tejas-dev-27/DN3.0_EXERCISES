@@ -1,0 +1,1 @@
+All the 7 exercises have been completed in the same project since only light changes were required like using annotations and performng CRUD operations. Changes according to the exercises have been made.
